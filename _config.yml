@@ -1,0 +1,28 @@
+name: Lionhaze
+favicon: null
+layout_spectrum: 0.29837712831795216
+typography_spectrum: 0.8360490712802857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9610167066566646
+  lightness: 0.30870199808850884
+  saturation: 0.135522736934945
+  rhythmicContrast: 0.3898336763959378
+purpose: []
